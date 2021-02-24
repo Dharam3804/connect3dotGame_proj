@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game connect 3 dot</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again</string>
+</resources>
